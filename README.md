@@ -1,6 +1,8 @@
 
 ### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 𝐜𝐨𝐝𝐞𝐫𝐬! 👋
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://user-images.githubusercontent.com/81367175/122719591-5b6b5980-d2a9-11eb-8ad5-406d116b8b82.gif"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
+  
+<img src="https://user-images.githubusercontent.com/81367175/122719591-5b6b5980-d2a9-11eb-8ad5-406d116b8b82.gif"></h2>
 
 <div align="center" width="50">
 
