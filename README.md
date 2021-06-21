@@ -1,5 +1,5 @@
 
-### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, Welcomd to Clapbin's GitHub ! 👋
+### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, Welcome to Clapbin's GitHub ! 👋
 
 
 <img src="https://user-images.githubusercontent.com/81367175/122719591-5b6b5980-d2a9-11eb-8ad5-406d116b8b82.gif"></h2>
